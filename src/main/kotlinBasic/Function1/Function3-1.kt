@@ -13,7 +13,7 @@ fun max(a:Int, b:Int): Int{
 }
 
 //리턴값이 없는 경우
-fun outFunc(name:String):Unit{
+fun outFunc(name:String){
     println("name: $name")
 }
 
